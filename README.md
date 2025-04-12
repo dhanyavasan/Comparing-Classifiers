@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes a marketing campaign dataset by exploring features, applying feature engineering, and building baseline and advanced classification models. It involves fine-tuning, evaluating key metrics, and ultimately comparing classifiers to identify the most suitable model for the business objective.
 
-Link to Jupyter Notebook: 
+Link to Jupyter Notebook: https://github.com/dhanyavasan/Comparing-Classifiers/blob/main/Practical_Application_III.ipynb
 
 ## Insights from Data Exploration & Visualizations
 1. The campaign primarily targeted customers working as administrators, blue-collar workers, and technicians, while students, self-employed individuals, and the unemployed formed the least represented segments.
