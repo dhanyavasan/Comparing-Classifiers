@@ -1,4 +1,4 @@
-# Comparing-Classifiers
+# Term Deposit Campaign Analysis & Model Comparison
 
 ## Overview
 This project analyzes a marketing campaign dataset by exploring features, applying feature engineering, and building baseline and advanced classification models. It involves fine-tuning, evaluating key metrics, and ultimately comparing classifiers to identify the most suitable model for the business objective.
